@@ -45,6 +45,8 @@ computing
 Location: Online call
 Schedule: Wednesdays at 17:00
 Task allocation and tracking: Github, Discord
+Attendance Sheet:
+https://docs.google.com/spreadsheets/d/1_XRaxYGUOOfS0jm1j5qSKRXa0f6jj01B-z4bHOvZ83Y
 
 
 
